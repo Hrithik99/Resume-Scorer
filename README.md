@@ -3,6 +3,8 @@
 🚀 **Resume Matcher** is a **Streamlit-based AI application** that evaluates a candidate's resume against a given job description using **GPT-4**. 
 It provides a **relevance score (0-10)** and detailed feedback on how well the resume aligns with the job requirements.
 
+**APP URL: https://ai-resume-match.streamlit.app/**
+
 ---
 
 ## **🌟 Features**
