@@ -1,0 +1,6 @@
+streamlit
+pdfminer.six
+python-docx
+pandas
+openai
+dotenv

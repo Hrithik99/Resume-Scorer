@@ -1,0 +1,29 @@
+Responsibilities:
+Your ability to work at the intersection of data science and software engineering while collaborating directly with customers and their data is your superpower.
+You’re able to leverage your strong statistical foundation to understand business needs, and to help derive meaningful insights from large amounts of data.
+You’re comfortable running one-off data assessments or building ML-based scoring models using data - customer obsessions is your north star as you dive deep into problems and propose novel solutions.
+Outside of this, you also identify and participate in important company-building initiatives that a fast growing startup needs.
+Have 2+ years of experience building data or/or ML-based models leveraging industry best practices.
+Have exceptional SQL skills and experience with large-scale data transformation.
+Can shape the future of Common Room’s data capabilities by integrating data science into our product development process.
+Partner with customers to solve unique data challenges and optimize their workflows, and validate methodologies to develop pragmatic, scalable solutions for customers.
+Don’t hesitate to dive into unfamiliar data and shape it to a familiar form that can be manipulated and reasoned on, and capable of making high quality technical and non-technical tradeoffs
+Operate independently, but don’t hesitate to seek help and support from those around you to get your job done
+Revel in your craft, are excited by and capable of owning large projects primarily in the front-end domain
+Bring your authentic self to work, and engage in candid + respectful feedback
+Build sustainably, and are capable of managing your time and priorities as best suits your needs
+Enjoy the journey as much as the destination, but never lose sight of the destination
+Demonstrate pride, ownership, and accountability for your work, and expect the same from those you work with
+
+Qualification Required:
+Have 2+ years of experience building data or/or ML-based models leveraging industry best practices.
+Have exceptional SQL skills and experience with large-scale data transformation.
+Can shape the future of Common Room’s data capabilities by integrating data science into our product development process.
+Partner with customers to solve unique data challenges and optimize their workflows, and validate methodologies to develop pragmatic, scalable solutions for customers.
+Don’t hesitate to dive into unfamiliar data and shape it to a familiar form that can be manipulated and reasoned on, and capable of making high quality technical and non-technical tradeoffs.
+Operate independently, but don’t hesitate to seek help and support from those around you to get your job done.
+Revel in your craft, are excited by and capable of owning large projects primarily in the front-end domain.
+Bring your authentic self to work, and engage in candid + respectful feedback.
+Build sustainably, and are capable of managing your time and priorities as best suits your needs.
+Enjoy the journey as much as the destination, but never lose sight of the destination.
+Demonstrate pride, ownership, and accountability for your work, and expect the same from those you work with.
