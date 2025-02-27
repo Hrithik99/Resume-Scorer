@@ -135,4 +135,4 @@ This project is MIT Licensed – free to use and modify.
 For any issues or suggestions, feel free to reach out:
 
 📧 Email: hrithiksarda4@gmail.com
-💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/hrithiksarda/)
+💼 LinkedIn: (https://www.linkedin.com/in/hrithiksarda/)
