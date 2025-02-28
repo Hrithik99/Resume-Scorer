@@ -1,15 +1,35 @@
 import streamlit as st
 import openai
+import os
 from utils.text_processing import extract_resume_text
 from utils.scoring import get_job_relevance_score
 
+from dotenv import load_dotenv
+
+# Manually load `.env` file using absolute path
+env_path = os.path.abspath("Config.env")
+print(f"Loading .env from: {env_path}")  # Debugging print
+
+load_dotenv(env_path)
+
+# Fetch API key
+api_key = os.getenv("OPENAI_API_KEY")
+
+
+
+    
 # Streamlit UI Configuration
 st.set_page_config(page_title="Resume vs Job Description Matcher", layout="wide")
 st.title("📄 Resume vs Job Description Matcher")
 
 # OpenAI API Key Input
-st.subheader("🔑 Enter OpenAI API Key")
-api_key = st.text_input("🔐 OpenAI API Key", type="password")
+# If API key is not found, prompt user for input
+if not api_key:
+    st.subheader("🔑 Enter OpenAI API Key")
+    api_key = st.text_input("🔐 OpenAI API Key", type="password")
+else:
+    # Store API key as a hidden input
+    st.text_input("🔐 OpenAI API Key", value="●●●●●●●●●●", type="password", disabled=True)
 
 # Store API Key in Session State (So it persists)
 if api_key:
